@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>سيرتي الذاتية</title>
+
+    <!-- هذا الجزء خاص بتنسيق الصفحة -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            width: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card">
+        <h1>بيان</h1>
+        <p>تخصص: نظم معلومات إدارية</p>
+        <p>المادة: Web Design and Programming</p>
+        <p>طالبة مهتمة بتصميم وتطوير الويب</p>
+    </div>
+
+</body>
+</html>{}
